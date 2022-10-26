@@ -8,10 +8,14 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
   </div>
   <h2>
-    저에 대해서
+    커뮤니티
   </h2>
   <div>
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+    <a href="https://unsnruu.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+    </a>
+    <a href="https://velog.io/@unsnruu">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+    </a>
   </div>
 </div>
